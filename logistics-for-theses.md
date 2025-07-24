@@ -3,7 +3,7 @@
 ## Involved People
 
  * __Student__ - The person who wants to write the thesis
- * __Advisor__ - The research associate ("wissenschaftlicher Mitarbeiter") who will advise you throughout the thesis writing period. 
+ * __Advisor__ - The research associate ("wissenschaftliche/r Mitarbeiter/in") who will advise you throughout the thesis writing period. 
  * __First examiner__ (Professor Schelter) - The person who will grade your thesis and also supervise the writing process together with the Advisor. You will meet him approximately once per month.
  * __Second examiner__ - The person who will provide a second grade for your thesis. The grade will be the average of both examiner grades. 
 
@@ -22,8 +22,8 @@ Once Prof. Schelter approved your proposal, you should fill out the __registrati
 In general, the process is as follows for computer science students:
 
  1. You contact the examination team.
- 1. You will receive a registration form, which you need to fill out and send using your TU email to your examination team.
- 1. The examination office will check the prerequisites, complete their part of the form, and forward it to the first examiner (Prof. Dr. Abedjan).
+ 1. You will receive a registration form, which you need to fill out and send to your examination team (using your TU email).
+ 1. The examination office will check the prerequisites, complete their part of the form, and forward it to the first examiner (Prof. Dr. Schelter).
  1. Prof. Dr. Schelter will specify the topic, suggest a second examiner, sign the form, and forward it to the examination board.
  1. The examination board will check if the application is formally correct and send the decision back to the examination office.
  1. You will receive information about the specific topic and the submission deadline by email (TU account) or by post.
