@@ -13,7 +13,7 @@ All our available theses topics are listed on [theses.tu-berlin.de](https://www.
 
 ## Write a Thesis Proposal
 
-Onvce you are approved for a thesis topic, the next step is to meet with your advisor and write a proposal for the thesis, based on our [thesis proposal template](template-for-thesis-proposal.md). The proposal should not be longer than four pages and should be discussed with the advisor before sending it to Prof. Schelter. 
+Onvce you are approved for a thesis topic, the next step is to meet with your advisor and write a proposal for the thesis, based on our [thesis proposal template](template-thesis-proposal.md). The proposal should not be longer than four pages and should be discussed with the advisor before sending it to Prof. Schelter. 
 
 ## Registration of the Thesis:
 
