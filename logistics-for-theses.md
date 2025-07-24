@@ -47,6 +47,10 @@ Please note that the thesis MUST contain the following
    
 Technical details on the submission process can be found at: [TU Berlin Examinations - Final Theses](https://www.tu.berlin/en/pruefungen/examinations/final-theses) and [Final Theses at Faculty IV (Submission of Final Thesis)](https://www.tu.berlin/en/eecs/academics-teaching/advising/finalizing-your-studies/final-theses-at-faculty-iv#c2112346).    
 
+## Grading
+
+Our grading is based on the following [thesis grading criteria](grading-of-theses.md).
+
 ## Defense
 
 You should set the defense date with your advisor. Usually, the defense is around one month after your deadline. For the defense session, you have 15 minutes to present your work. After that, we will have 10 minutes of questions and answers. Master thesis students are supposed to sign up for the "Research Seminar - Data Engineering for Machine Learning", where they also obtain 3 additional ungraded LPs. There are no predesigned templates for your slides. You can present your work in German or English.
