@@ -2,7 +2,7 @@
 
 ## Involved People
 
- * __Student__ - The person who wants to write the thesis
+ * __Student__ - The person who wants to write the thesis.
  * __Advisor__ - The research associate ("wissenschaftliche/r Mitarbeiter/in") who will advise you throughout the thesis writing period. 
  * __First examiner__ (Professor Schelter) - The person who will grade your thesis and also supervise the writing process together with the Advisor. You will meet him approximately once per month.
  * __Second examiner__ - The person who will provide a second grade for your thesis. The grade will be the average of both examiner grades. 
