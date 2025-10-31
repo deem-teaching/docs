@@ -18,6 +18,7 @@
 ### Experimental Evaluation
  * How should the quality of your method be measured?
  * What data is needed for evaluation?
+ * What resources are needed for evaluation?
  * What are baseline techniques that your method should be compared to?
  * Sketch potential experiments and expected outcomes (on a high-level)
 
