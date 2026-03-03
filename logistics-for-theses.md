@@ -31,7 +31,7 @@ In general, the process is as follows for computer science students:
 
 ## Submission of the Thesis
 
-The formal procedure for submitting your thesis is described in your examination rules. Ask the examination office in doubt. Exclusive digital submission requires the consent of both examiners and must be planned beforehand.
+The formal procedure for submitting your thesis is described in your examination rules. Ask the examination office in doubt. Exclusive [digital submission](https://www.tu.berlin/pruefungen/pruefungen/abschlussarbeiten) requires the consent of both examiners and must be planned beforehand. Ask your supervisors if digital submission is allowed. If you submit digitally, please verify the required information to include and the email address of your examination office.
 
 Please note that the thesis MUST contain the following 
 
